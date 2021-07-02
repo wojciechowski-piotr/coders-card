@@ -48,6 +48,10 @@ skills:
     category: Tools
     icon: /uploads/logo-git.svg
     value: 3
+  - name: GraphQL
+    icon: /uploads/project-5.jpg
+    category: Technologies
+    value: 1
   - name: Heroku
     category: Tools
     icon: /uploads/logo-heroku.svg
@@ -62,9 +66,5 @@ skills:
   - name: English (A2)
     category: Other
     value: 2
-  - name: GraphQL
-    icon: /uploads/project-5.jpg
-    category: Technologies
-    value: 1
 testimonials: []
 ---
