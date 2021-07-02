@@ -9,6 +9,12 @@ workExperience:
     companyName: CodersCrew
     startDate: 2020-04-16T22:00:44.535Z
     finishDate: 2021-07-02T13:24:25.505Z
+  - startDate: 2017-04-03T06:00:33.840Z
+    finishDate: 2021-07-02T13:25:48.168Z
+    jobName: IT specialist (Head of IT)
+    jobDescription: lorem
+      loremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremlorem
+    companyName: Power Factory Sp. z o. o.
 education:
   - schoolName: Master Degree, Wroclaw University of Economics
     course: Finanse and Accounting, sp. Real Estate
