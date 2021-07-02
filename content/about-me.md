@@ -31,7 +31,7 @@ skills:
     category: Technologies
     icon: /uploads/logo-typescript.svg
     value: 2
-  - name: Next
+  - name: Next.js
     category: Technologies
     value: 2
     icon: /uploads/nextjs.svg
