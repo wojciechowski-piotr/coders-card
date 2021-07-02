@@ -62,5 +62,9 @@ skills:
   - name: English (A2)
     category: Other
     value: 2
+  - name: GraphQL
+    icon: /uploads/project-5.jpg
+    category: Technologies
+    value: 1
 testimonials: []
 ---
