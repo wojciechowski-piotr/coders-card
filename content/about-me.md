@@ -39,7 +39,7 @@ skills:
   - name: Next
     category: Technologies
     value: 2
-    icon: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/2560px-Nextjs-logo.svg.png
+    icon: https://docs.microsoft.com/pl-pl/windows/images/nextjs-logo.png
   - name: Node.js
     category: Technologies
     icon: /uploads/logo-node.svg
