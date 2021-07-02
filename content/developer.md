@@ -2,7 +2,7 @@
 firstName: Piotr
 lastName: Wojciechowski
 avatar: /uploads/piotr-wojciechowski-photo.jpg
-position: Junior Frontend Developer (React) || Head of IT @ Power Factory
+position: Junior Frontend Developer || Head of IT @ Power Factory
 phone: "661895839"
 email: pwojciechowski2014@gmail.com
 city: Legnica
