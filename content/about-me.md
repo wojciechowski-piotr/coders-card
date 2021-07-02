@@ -23,7 +23,7 @@ skills:
   - name: JavaScript
     category: Technologies
     icon: /uploads/logo-javascript.svg
-    value: 5
+    value: 4
   - name: React.js
     category: Technologies
     icon: /uploads/logo-react.svg
@@ -35,7 +35,7 @@ skills:
   - name: SASS
     category: Technologies
     icon: /uploads/logo-sass.svg
-    value: 5
+    value: 4
   - name: Node.js
     category: Technologies
     icon: /uploads/logo-node.svg
@@ -43,7 +43,7 @@ skills:
   - name: Git
     category: Tools
     icon: /uploads/logo-git.svg
-    value: 4
+    value: 3
   - name: Heroku
     category: Tools
     icon: /uploads/logo-heroku.svg
