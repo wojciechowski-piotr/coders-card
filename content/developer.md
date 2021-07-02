@@ -11,7 +11,7 @@ isFreelancer: false
 cv: https://s2.q4cdn.com/175719177/files/doc_presentations/Placeholder-PDF.pdf
 socialMedia:
   twitter: ""
-  github: https://github.com/
-  instagram: https://www.instagram.com/
+  github: https://github.com/wojciechowski-piotr
+  instagram: https://www.instagram.com/pwojciechowski.dev/
   facebook: ""
 ---
