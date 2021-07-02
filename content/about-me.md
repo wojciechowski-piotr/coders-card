@@ -61,6 +61,6 @@ skills:
     value: 5
   - name: English (A2)
     category: Other
-    value: 4
+    value: 2
 testimonials: []
 ---
