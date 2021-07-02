@@ -58,5 +58,9 @@ skills:
   - name: English (A2)
     category: Other
     value: 4
+  - name: Next
+    category: Technologies
+    value: 2
+    icon: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/2560px-Nextjs-logo.svg.png
 testimonials: []
 ---
