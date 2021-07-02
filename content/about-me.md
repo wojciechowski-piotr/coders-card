@@ -49,7 +49,7 @@ skills:
     icon: /uploads/logo-git.svg
     value: 3
   - name: GraphQL
-    icon: /uploads/project-5.jpg
+    icon: https://img.icons8.com/color/452/graphql.png
     category: Technologies
     value: 1
   - name: Heroku
