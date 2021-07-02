@@ -61,5 +61,13 @@ skills:
   - name: English (A2)
     category: Other
     value: 2
+  - name: Python
+    category: Technologies
+    value: 2
+    icon: /uploads/python.svg
+  - name: Pandas
+    category: Technologies
+    icon: /uploads/pandas_mark.svg
+    value: 2
 testimonials: []
 ---
