@@ -20,6 +20,10 @@ skills:
     category: Technologies
     icon: /uploads/logo-css.svg
     value: 5
+  - name: SASS
+    category: Technologies
+    icon: /uploads/logo-sass.svg
+    value: 4
   - name: JavaScript
     category: Technologies
     icon: /uploads/logo-javascript.svg
@@ -32,10 +36,10 @@ skills:
     category: Technologies
     icon: /uploads/logo-typescript.svg
     value: 2
-  - name: SASS
+  - name: Next
     category: Technologies
-    icon: /uploads/logo-sass.svg
-    value: 4
+    value: 2
+    icon: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/2560px-Nextjs-logo.svg.png
   - name: Node.js
     category: Technologies
     icon: /uploads/logo-node.svg
@@ -58,9 +62,5 @@ skills:
   - name: English (A2)
     category: Other
     value: 4
-  - name: Next
-    category: Technologies
-    value: 2
-    icon: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/2560px-Nextjs-logo.svg.png
 testimonials: []
 ---
