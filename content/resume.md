@@ -27,11 +27,8 @@ education:
     finishDate: 2018-06-30T19:12:59.850Z
   - schoolName: THE WITELON STATE UNIVERSITY OF APPLIED SCIENCES, Legnica
     course: Economy, Accounting and internal audit - bachelor degree
-    description: Maecenas eu lobortis ex. Vivamus ultrices tristique libero, non
-      auctor risus pretium nec. In leo neque, mollis eu volutpat eget, sodales
-      ac lacus. Curabitur et ligula tincidunt, ultrices dui a, malesuada est.
-      Cras blandit dignissim suscipit. Integer semper diam mauris, ac efficitur
-      dui hendrerit eget.
+    description: In college, I gained knowledge in economics, finance,
+      entrepreneurship and accounting.
     startDate: 2012-10-01T19:05:57.745Z
     finishDate: 2015-07-22T22:00:00.000Z
 ---
