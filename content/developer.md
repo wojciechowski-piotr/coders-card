@@ -2,7 +2,7 @@
 firstName: Piotr
 lastName: Wojciechowski
 avatar: /uploads/profile-photo.jpg
-position: Frontend Developer \n || Head of IT @ Power Factory
+position: Frontend Developer || Head of IT @ Power Factory
 phone: ""
 email: pwojciechowski2014@gmail.com
 city: Legnica
