@@ -16,22 +16,20 @@ workExperience:
       loremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremlorem
     companyName: Power Factory Sp. z o. o.
 education:
-  - schoolName: Master Degree, Wroclaw University of Economics
-    course: Finanse and Accounting, sp. Real Estate
+  - schoolName: CNiB "ŻAK"
+    course: IT technical college
+    description: Administration of databases and operating systems. Design and
+      development of websites and web applications. Design and installation of
+      local computer networks.
+    startDate: 2016-09-01T20:11:00.000Z
+    finishDate: 2018-06-30T19:12:59.850Z
+  - schoolName: THE WITELON STATE UNIVERSITY OF APPLIED SCIENCES, Legnica
+    course: Economy, Accounting and internal audit - bachelor degree
     description: Maecenas eu lobortis ex. Vivamus ultrices tristique libero, non
       auctor risus pretium nec. In leo neque, mollis eu volutpat eget, sodales
       ac lacus. Curabitur et ligula tincidunt, ultrices dui a, malesuada est.
       Cras blandit dignissim suscipit. Integer semper diam mauris, ac efficitur
       dui hendrerit eget.
-    startDate: 2020-10-02T20:11:46.025Z
-    finishDate: 2020-11-02T20:12:59.850Z
-  - schoolName: Bachelor Degree Warsaw School of Economics
-    course: Managment, sp. Project Managment
-    description: Maecenas eu lobortis ex. Vivamus ultrices tristique libero, non
-      auctor risus pretium nec. In leo neque, mollis eu volutpat eget, sodales
-      ac lacus. Curabitur et ligula tincidunt, ultrices dui a, malesuada est.
-      Cras blandit dignissim suscipit. Integer semper diam mauris, ac efficitur
-      dui hendrerit eget.
-    startDate: 2017-10-01T19:05:57.745Z
-    finishDate: 2020-06-14T22:00:00.000Z
+    startDate: 2012-10-01T19:05:57.745Z
+    finishDate: 2018-07-29T22:00:00.000Z
 ---
