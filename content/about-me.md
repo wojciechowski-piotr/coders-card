@@ -69,5 +69,17 @@ skills:
     category: Technologies
     icon: /uploads/pandas_mark.svg
     value: 2
+  - category: Other
+    name: Ebay
+    value: 4
+  - name: Amazon Seller Central
+    category: Other
+    value: 3
+  - name: Emag
+    category: Other
+    value: 3
+  - name: Microsoft Office 365 Administration
+    category: Tools
+    value: 2
 testimonials: []
 ---
