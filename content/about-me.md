@@ -81,5 +81,14 @@ skills:
   - name: Microsoft Office 365
     category: Tools
     value: 2
+  - name: Figma
+    category: Tools
+    value: 3
+  - name: Adobe Photoshop/Illustrator
+    category: Tools
+    value: 3
+  - name: Linux/Terminal
+    category: Tools
+    value: 2
 testimonials: []
 ---
