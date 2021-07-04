@@ -78,7 +78,7 @@ skills:
   - name: Emag
     category: Other
     value: 3
-  - name: Microsoft Office 365 Administration
+  - name: Microsoft Office 365
     category: Tools
     value: 2
 testimonials: []
