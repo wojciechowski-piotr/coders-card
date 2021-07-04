@@ -33,7 +33,7 @@ projects:
     name: Meme Poker
     startDate: 2020-07-01T12:10:23.756Z
     previewImage: /uploads/memepoker.png
-    label: Mobile
+    label: Desktop
     role: I was responsible for the front-end part, implementation of front-end
       features, customization of Material UI components and adaptation of the
       application to mobile devices.
