@@ -12,8 +12,10 @@ workExperience:
   - startDate: 2017-04-03T06:00:33.840Z
     finishDate: 2021-07-02T13:25:48.168Z
     jobName: IT specialist (Head of IT)
-    jobDescription: lorem
-      loremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremloremlorem
+    jobDescription: "I currently work for a company that manufactures and sells
+      tuning boxes for cars. My main responsibilities include: IT team
+      management, implementing new IT systems, administration, seo and listing
+      on ebay, amazon and emag."
     companyName: Power Factory Sp. z o. o.
 education:
   - schoolName: CNiB "ŻAK"
