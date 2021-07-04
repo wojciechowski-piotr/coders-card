@@ -8,6 +8,9 @@ projects:
       - name: Try demo app
         icon: external-link
         url: https://pwojciechowski.pl/projects/ytsearch/
+    technologies:
+      - name: React.js
+      - name: TypeScript
     name: YTsearch
     startDate: 2021-02-07T20:19:39.036Z
     previewImage: /uploads/ytsearch.png
