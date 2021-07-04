@@ -90,5 +90,8 @@ skills:
   - name: Linux/Terminal
     category: Tools
     value: 2
+  - name: Excel
+    category: Tools
+    value: 4
 testimonials: []
 ---
