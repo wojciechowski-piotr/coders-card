@@ -33,5 +33,5 @@ education:
       Cras blandit dignissim suscipit. Integer semper diam mauris, ac efficitur
       dui hendrerit eget.
     startDate: 2012-10-01T19:05:57.745Z
-    finishDate: 2018-07-29T22:00:00.000Z
+    finishDate: 2015-07-22T22:00:00.000Z
 ---
