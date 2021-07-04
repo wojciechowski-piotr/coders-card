@@ -1,5 +1,23 @@
 ---
 projects:
+  - finishDate: 2021-04-04T19:19:39.056Z
+    buttons:
+      - url: https://github.com/wojciechowski-piotr/ytsearch-react
+        icon: github
+        name: Read the code
+      - name: Try demo app
+        icon: external-link
+        url: https://pwojciechowski.pl/projects/ytsearch/
+    name: YTsearch
+    startDate: 2021-02-07T20:19:39.036Z
+    previewImage: /uploads/ytsearch.png
+    label: Desktop
+    role: I created this project on my own from scratch. Created to practice React,
+      TypeScript, and also to learn about the React-Query tool.
+    previewNote: Alternative Youtube client for searching videos by date, views or
+      relevance.
+    description: Alternative Youtube client for searching videos by date, views or
+      relevance.
   - finishDate: 2020-08-31T18:23:43.772Z
     buttons:
       - name: Read the code
@@ -25,22 +43,4 @@ projects:
       Web app to sprint planning and task estimation.
 
       Used technologies: React.js and TypeScript.
-  - finishDate: 2021-04-04T19:19:39.056Z
-    buttons:
-      - url: https://github.com/wojciechowski-piotr/ytsearch-react
-        icon: github
-        name: Read the code
-      - name: Try demo app
-        icon: external-link
-        url: https://pwojciechowski.pl/projects/ytsearch/
-    name: YTsearch
-    startDate: 2021-02-07T20:19:39.036Z
-    previewImage: /uploads/ytsearch.png
-    label: Desktop
-    role: I created this project on my own from scratch. Created to practice React,
-      TypeScript, and also to learn about the React-Query tool.
-    previewNote: Alternative Youtube client for searching videos by date, views or
-      relevance.
-    description: Alternative Youtube client for searching videos by date, views or
-      relevance.
 ---
