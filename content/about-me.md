@@ -69,15 +69,12 @@ skills:
     category: Technologies
     icon: /uploads/pandas_mark.svg
     value: 2
-  - category: Other
-    name: Ebay
+  - name: Linux/Terminal
+    category: Tools
+    value: 2
+  - name: Excel
+    category: Tools
     value: 4
-  - name: Amazon Seller Central
-    category: Other
-    value: 3
-  - name: Emag
-    category: Other
-    value: 3
   - name: Microsoft Office 365
     category: Tools
     value: 2
@@ -87,11 +84,14 @@ skills:
   - name: Adobe Photoshop/Illustrator
     category: Tools
     value: 3
-  - name: Linux/Terminal
-    category: Tools
-    value: 2
-  - name: Excel
-    category: Tools
+  - category: Other
+    name: Ebay
     value: 4
+  - name: Amazon Seller Central
+    category: Other
+    value: 3
+  - name: Emag
+    category: Other
+    value: 3
 testimonials: []
 ---
