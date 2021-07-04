@@ -14,7 +14,7 @@ workExperience:
     jobName: IT specialist (Head of IT)
     jobDescription: "I currently work for a company that manufactures and sells
       tuning boxes for cars. My main responsibilities include: IT team
-      management, implementing new IT systems, administration, seo and listing
+      management, implementing new IT systems, administration, SEO and listing
       on ebay, amazon and emag."
     companyName: Power Factory Sp. z o. o.
 education:
