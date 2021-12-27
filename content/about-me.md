@@ -93,5 +93,9 @@ skills:
   - name: Emag
     category: Other
     value: 3
+  - name: Angular
+    category: Technologies
+    icon: https://yt3.ggpht.com/ytc/AKedOLSQniC1j1GET8oXX1hMNXuF4TNIc2HvsKkmImfk=s900-c-k-c0x00ffffff-no-rj
+    value: 1
 testimonials: []
 ---
