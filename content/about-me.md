@@ -58,7 +58,7 @@ skills:
   - name: Polish - native
     category: Other
     value: 5
-  - name: English (A2)
+  - name: English (B1)
     category: Other
     value: 2
   - name: Python
@@ -97,5 +97,8 @@ skills:
     category: Technologies
     icon: https://yt3.ggpht.com/ytc/AKedOLSQniC1j1GET8oXX1hMNXuF4TNIc2HvsKkmImfk=s900-c-k-c0x00ffffff-no-rj
     value: 1
+  - category: Technologies
+    name: SQL
+    value: 2
 testimonials: []
 ---
