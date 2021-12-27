@@ -10,7 +10,7 @@ workExperience:
     startDate: 2020-04-16T22:00:44.535Z
     finishDate: 2021-07-02T13:24:25.505Z
   - startDate: 2017-04-03T06:00:33.840Z
-    finishDate: 2021-07-02T13:25:48.168Z
+    finishDate: 2021-11-04T23:00:48.168Z
     jobName: IT specialist (Head of IT)
     jobDescription: "I currently work for a company that manufactures and sells
       tuning boxes for cars. My main responsibilities include: IT team
